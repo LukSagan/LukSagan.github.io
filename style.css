@@ -1,0 +1,167 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+
+table.main_container {
+	width: 1100px;
+	background-color: rgb(240, 240, 240);
+	
+}
+
+
+img#logo_main{
+	width: 70%;
+	
+}
+
+
+
+
+ul#menu_ul{
+/*#menuul {*/
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333333;
+}
+
+li.menu_button {
+	float: left;
+}
+
+li a.menu_button{
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+
+li a.menu_button:hover {
+	background-color: #111111;
+}
+
+
+
+
+td{
+	//color: rgb(255, 0, 0);
+	padding-top:10px;  /* bottom top    left   right    */
+}
+
+td#logo_td {
+	padding-top:0px;  /* bottom top    left   right    */
+}
+
+
+td#menu_td {
+	padding-top:0px;  /* bottom top    left   right    */
+}
+
+
+td#left_panel{
+	vertical-align: top; /*  top   bottom   middle  */
+	width:250px;
+}
+
+
+td#main_panel{
+	vertical-align: top; /*  top   bottom   middle  */
+	height: 400px;
+	padding-left:20px;  /* bottom top    left   right    */
+	
+}
+
+
+
+span#company_news_span{
+	font-weight: bold;
+	padding-left:15px;
+}
+
+
+
+li.comany_news_li {
+	padding-bottom:20px;  /* bottom top    left   right    */
+}
+
+
+
+/*             main page                                */
+
+div#main_field_main_page_text_part_01{
+	//color: rgb(0, 0, 255);
+	padding-bottom:30px;
+}
+
+div#main_field_main_page_text_part_02{
+	//color: rgb(0, 255, 0);
+	padding-bottom:30px;
+}
+
+div#main_field_main_page_text_part_03{
+	//color: rgb(255, 0, 0);
+	padding-bottom:30px;
+}
+
+
+/*             projects                                */
+
+span.projects_span_header{
+	font-weight: bold;
+}
+
+div.projects_div_description{
+	padding-top:5px;  /* bottom top    left   right    */
+	padding-left:20px;  /* bottom top    left   right    */
+	padding-bottom:15px;
+}
+
+
+
+
+/*             contact                                */
+
+div.main_field_contact_page_header{
+	font-weight: bold;
+	padding-bottom:5px;
+}
+
+div.main_field_contact_page_text{
+	padding-bottom:30px;
+	padding-left:20px;
+}
+
+
+
+
+
+
+div#footer_text{
+	color: rgb(0, 0, 0);
+	text-align: center;
+	padding-bottom:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
