@@ -18,11 +18,11 @@
 		//text += 'strona glowna';
 		
 		text += '<div id="main_field_main_page_text_part_01">';
-		text += 'Nasza firma od wielu lat zajmuje sie czymś. Zaczynaliśmy od kilku osób, ale teraz mamy solidny zespół składający się z ponad 20 pracowników. Ukończylismy z sukcesem wiele projektów, o czym mogą świadczyć rekomendacje pozostawione przez naszych klientów.';
+		text += 'Nasza firma od wielu lat zajmuje sie czymś. Zaczynaliśmy od kilku osób, ale teraz mamy solidny zespół składający się z ponad 20 pracowników. Ukończyliśmy z sukcesem wiele projektów, o czym mogą świadczyć rekomendacje pozostawione przez naszych klientów.';
 		text += '</div>';
 		
 		text += '<div id="main_field_main_page_text_part_02">';
-		text += 'Nasz zespół składa się z doświadczonych pracowników, którzy z pasją podejmują nowe zadania. Możemy sie pochwycić między innymi wykonaniem czegoś super skomplikowanego.';
+		text += 'Nasz zespół składa się z doświadczonych pracowników, którzy z pasją podejmują nowe zadania. Możemy się pochwalić między innymi wykonaniem czegoś super skomplikowanego.';
 		text += '</div>';
 		
 		text += '<div id="main_field_main_page_text_part_03">';
